@@ -15,8 +15,8 @@ It also calculates the total amount of medicine that the clinic needs to get sup
 - Update patient's personal information / history records
 - Delete patient
 - Statistic Graphs (Pie chart, Bar chart, Historgram, Scatter plot(3D), Multiple subplots)
-- Pagination
 - Download patients' info and next day's medicine dose as PDF / CSV
+- Pagination
 
 ## Requirements - Libraries
 - asgiref
