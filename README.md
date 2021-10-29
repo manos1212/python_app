@@ -16,6 +16,7 @@ It also calculates the total amount of medicine that the clinic needs to get sup
 - Delete patient
 - Statistic Graphs (Pie chart, Bar chart, Historgram, Scatter plot(3D), Multiple subplots)
 - Pagination
+- Share results as PDF
 
 ## Requirements - Libraries
 - asgiref
@@ -49,13 +50,13 @@ It also calculates the total amount of medicine that the clinic needs to get sup
 <p align="center">Home page</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/59945502/139302362-023266db-2460-43f4-ad58-b9472438a5bc.png" ></p>
 <p align="center">Add new patient</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139302575-4720cae2-75a1-42cc-88c1-b1041f710d20.png""></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139302575-4720cae2-75a1-42cc-88c1-b1041f710d20.png"></p>
 <p align="center">Update patient</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139303048-cb4487e9-0c0a-4f69-a34d-c610febaa15e.png" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139303048-cb4487e9-0c0a-4f69-a34d-c610febaa15e.png" width="120%" ></p>
 <p align="center">View all patients</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139303287-cd14a735-816a-45a9-aa6e-040b6f6c4c67.png" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139303287-cd14a735-816a-45a9-aa6e-040b6f6c4c67.png" width="120%" ></p>
 <p align="center">View all appointments</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139303402-69ced86c-d682-474f-a555-dc22f70d7661.png" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139303402-69ced86c-d682-474f-a555-dc22f70d7661.png"  width="120%" ></p>
 <p align="center">View Statistics</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139304344-5182247d-4822-4c36-bc59-214c8a9caac0.png" ></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/59945502/139304344-5182247d-4822-4c36-bc59-214c8a9caac0.png"  width="120%"></p>  
 </h2>
